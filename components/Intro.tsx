@@ -60,7 +60,7 @@ const Intro: React.FC<IntroProps> = ({ onComplete }) => {
               </div>
 
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-serif text-white tracking-[0.1em] font-light text-center">
-                VEDANCO GROUP
+                VEDANCO INTERIOR
               </h1>
             </motion.div>
           )}
